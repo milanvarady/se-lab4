@@ -1,0 +1,5 @@
+SUCCESS                # ship created
+SUCCESS                # primary fired
+SUCCESS                # fell back to the primary store
+FAIL                   # nothing left to fire
+FAIL                   # no torpedo fired
