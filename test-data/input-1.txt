@@ -1,0 +1,2 @@
+GT4500,10,0,10,1.0     # primary never fails, secondary always fails
+TORPEDO,SINGLE         # first shot should come from the primary store

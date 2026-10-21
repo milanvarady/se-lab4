@@ -1,0 +1,3 @@
+GT4500,10,0,10,1.0     # primary never fails, secondary always fails
+TORPEDO,SINGLE         # primary
+TORPEDO,SINGLE         # alternation: secondary, which fails

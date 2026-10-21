@@ -1,0 +1,3 @@
+SUCCESS                # ship created
+SUCCESS                # ALL fired both stores
+FAIL                   # both stores are empty now
